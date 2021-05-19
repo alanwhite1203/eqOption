@@ -93,6 +93,10 @@ Settlement Type	Physical
 Position	598.2881
 
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+	
+https://finpricing.com/lib/EqWarrant.html
+	
+https://bitbucket.org/cmrm11/eqoption/downloads/EqOption-6.pdf
+	
 
